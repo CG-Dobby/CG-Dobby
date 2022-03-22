@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **ReactJs,MySQL**
+- 💬 Ask me about **MySQL**
 
 - 📫 How to reach me **chandansikhre1999@gmail.com**
 
